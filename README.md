@@ -85,6 +85,7 @@ You will make users lose trust in many sites, despite there being less than a 1 
 
 - [authy.com](http://authy.com) ([no leaked data found in several search engine caches](https://www.authy.com/blog/security-notice-authy-response-to-cloudflare-cloudbleed-incident/))
 - [coinbase.com](http://coinbase.com)
+-[trendinghacker.com] (https://trendinghacker.com)
 - [bitcoin.de](http://bitcoin.de)
 - [betterment.com](http://betterment.com)
 - [prosper.com](http://prosper.com)
